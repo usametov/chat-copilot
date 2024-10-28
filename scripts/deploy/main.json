@@ -67,7 +67,7 @@
     },
     "completionModel": {
       "type": "string",
-      "defaultValue": "gpt-4o",
+      "defaultValue": "gpt-4o-mini",
       "metadata": {
         "description": "Model to use for chat completions"
       }
