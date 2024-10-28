@@ -74,7 +74,7 @@
     },
     "embeddingModel": {
       "type": "string",
-      "defaultValue": "text-embedding-ada-002",
+      "defaultValue": "text-embedding-3-small",
       "metadata": {
         "description": "Model to use for text embeddings"
       }

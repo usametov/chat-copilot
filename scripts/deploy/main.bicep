@@ -35,7 +35,7 @@ param aiService string = 'AzureOpenAI'
 param completionModel string = 'gpt-4o'
 
 @description('Model to use for text embeddings')
-param embeddingModel string = 'text-embedding-ada-002'
+param embeddingModel string = 'text-embedding-3-small'
 
 @description('Azure OpenAI endpoint to use (Azure OpenAI only)')
 param aiEndpoint string = ''

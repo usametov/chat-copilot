@@ -3,7 +3,7 @@
 # Default values
 $varCompletionModelOpenAI = "gpt-4o"
 $varCompletionModelAzureOpenAI = "gpt-4o"
-$varEmbeddingModel = "text-embedding-ada-002"
+$varEmbeddingModel = "text-embedding-3-small"
 $varASPNetCore = "Development"
 $varInstance = "https://login.microsoftonline.com"
 
